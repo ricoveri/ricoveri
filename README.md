@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
-
 **Cloud Engineering professional** with 15+ years building scalable systems. Believer that the only constant is change, especially when driven by technology.
 
 ### 🔭 Currently Working On
