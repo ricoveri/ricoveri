@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ricoveri/ricoveri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## About Me
 
 I'm a **Cloud Engineering professional** with 15+ years of experience in the tech industry. I'm a firm believer that the only constant in life is change, especially when it's driven by technology.
 
