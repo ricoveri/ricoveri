@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### 🔭 Currently Working On
 
-| Area           | Focus                                             |
-| -------------- | ------------------------------------------------- |
-| 🦀 Open Source | Building small projects and games in Rust         |
-| 🚀 Growth      | Expanding beyond DevOps into Software Engineering |
+| Area                    | Focus                                             |
+| ----------------------- | ------------------------------------------------- |
+| 🦀 Open Source projects | Building small projects and games in Rust         |
+| 🚀 Growth               | Expanding beyond DevOps into Software Engineering |
 
 ### 🌱 Currently Learning
 
