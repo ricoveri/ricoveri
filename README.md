@@ -30,18 +30,9 @@ Here are some ideas to get you started:
 | 📜 TypeScript | Building on JavaScript experience                  |
 | ☸️ Kubernetes | From scratch, including lower-level infrastructure |
 
-### 🛠️ Tech Stack
-
-| Category     | Technologies              |
-| ------------ | ------------------------- |
-| ☁️ Cloud     | AWS, GCP                  |
-| 🏗️ IaC       | Terraform, CloudFormation |
-| 💻 Languages | Python, Golang, C, Rust   |
-| 🔧 Focus     | DevOps, SRE, Automation   |
-
 ### 🌍 Beyond Code
 
-🌍 Travel · 🗣️ Languages (English, French, Italian, Danish) · 🏃 Running
+🌍 Travel · 🗣️ Languages (Spanish, English, French, Italian, Danish) · 🏃 Running
 
 ### 📫 Connect
 
